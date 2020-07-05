@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Aquino_AsyncTaskHttpUrlConnection</string>
+    <string name="instrucciones">Ingresar el nombre del libro para conocer su autor.</string>
+    <string name="textoBoton">Buscar Libro</string>
+    <string name="inputHint">Titulo del Libro</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
