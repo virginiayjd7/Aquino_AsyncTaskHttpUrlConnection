@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity implements InterfaceFragment
         }
         imputLibro = (EditText) findViewById(R.id.ingresoLibro);
         textoTitle = (TextView) findViewById(R.id.title);
-       // textoAutor = (TextView) findViewById(R.id.li);
+        textoAutor = (TextView) findViewById(R.id.autorLibro);
     }
 
     public void buscarLibro(View view) {
